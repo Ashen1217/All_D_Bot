@@ -1,6 +1,3 @@
-!pip install telethon
-!pip install yt-dlp
-!pip install nest_asyncio
 
 import os
 import asyncio
